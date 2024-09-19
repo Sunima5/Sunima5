@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunima Rajbhandari 
-- 👀 I’m interested in web development, UI/UX design.
-- 🌱 I’m currently learning UI/UX 
+- 👀 I’m interested in web development.
+- 🌱 I’m currently an IT student.
 - 💞️ I’m looking to collaborate on projects of UI/UX
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
