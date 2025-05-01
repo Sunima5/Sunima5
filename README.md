@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Sunima Rajbhandari 
-- 👀 I’m interested in web development.
-- 🌱 I’m currently an IT student.
-- 💞️ I’m looking to collaborate on projects of UI/UX
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+
 
 <!---
 Sunima5/Sunima5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
